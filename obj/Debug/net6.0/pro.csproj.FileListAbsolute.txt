@@ -1,0 +1,15 @@
+C:\Users\deanj\Desktop\idkkk\bin\Debug\net6.0\pro.exe
+C:\Users\deanj\Desktop\idkkk\bin\Debug\net6.0\pro.deps.json
+C:\Users\deanj\Desktop\idkkk\bin\Debug\net6.0\pro.runtimeconfig.json
+C:\Users\deanj\Desktop\idkkk\bin\Debug\net6.0\pro.dll
+C:\Users\deanj\Desktop\idkkk\bin\Debug\net6.0\ref\pro.dll
+C:\Users\deanj\Desktop\idkkk\bin\Debug\net6.0\pro.pdb
+C:\Users\deanj\Desktop\idkkk\obj\Debug\net6.0\pro.csproj.AssemblyReference.cache
+C:\Users\deanj\Desktop\idkkk\obj\Debug\net6.0\pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deanj\Desktop\idkkk\obj\Debug\net6.0\pro.AssemblyInfoInputs.cache
+C:\Users\deanj\Desktop\idkkk\obj\Debug\net6.0\pro.AssemblyInfo.cs
+C:\Users\deanj\Desktop\idkkk\obj\Debug\net6.0\pro.csproj.CoreCompileInputs.cache
+C:\Users\deanj\Desktop\idkkk\obj\Debug\net6.0\pro.dll
+C:\Users\deanj\Desktop\idkkk\obj\Debug\net6.0\ref\pro.dll
+C:\Users\deanj\Desktop\idkkk\obj\Debug\net6.0\pro.pdb
+C:\Users\deanj\Desktop\idkkk\obj\Debug\net6.0\pro.genruntimeconfig.cache

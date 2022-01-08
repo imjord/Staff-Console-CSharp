@@ -1,0 +1,15 @@
+C:\Users\deanj\Desktop\poop\bin\Debug\net6.0\poop.exe
+C:\Users\deanj\Desktop\poop\bin\Debug\net6.0\poop.deps.json
+C:\Users\deanj\Desktop\poop\bin\Debug\net6.0\poop.runtimeconfig.json
+C:\Users\deanj\Desktop\poop\bin\Debug\net6.0\poop.dll
+C:\Users\deanj\Desktop\poop\bin\Debug\net6.0\ref\poop.dll
+C:\Users\deanj\Desktop\poop\bin\Debug\net6.0\poop.pdb
+C:\Users\deanj\Desktop\poop\obj\Debug\net6.0\poop.csproj.AssemblyReference.cache
+C:\Users\deanj\Desktop\poop\obj\Debug\net6.0\poop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deanj\Desktop\poop\obj\Debug\net6.0\poop.AssemblyInfoInputs.cache
+C:\Users\deanj\Desktop\poop\obj\Debug\net6.0\poop.AssemblyInfo.cs
+C:\Users\deanj\Desktop\poop\obj\Debug\net6.0\poop.csproj.CoreCompileInputs.cache
+C:\Users\deanj\Desktop\poop\obj\Debug\net6.0\poop.dll
+C:\Users\deanj\Desktop\poop\obj\Debug\net6.0\ref\poop.dll
+C:\Users\deanj\Desktop\poop\obj\Debug\net6.0\poop.pdb
+C:\Users\deanj\Desktop\poop\obj\Debug\net6.0\poop.genruntimeconfig.cache
